@@ -37,7 +37,7 @@ export default function Home() {
            Prince Gupta
           </h1>
           <p className="font-light text-foreground text-lg">
-            UoL-FOET,Lucknow'26||DATA ANALYST||AI&ML||DSA
+            UoL-FOET,Lucknow-26||DATA ANALYST||AI&ML||DSA
           </p>
         </div> 
       </div>
