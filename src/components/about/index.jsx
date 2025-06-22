@@ -1,5 +1,6 @@
 import React from "react";
 import ItemLayout from "./ItemLayout";
+import Image from "next/image";
 
 export const AboutDetails = () => {
   return (
@@ -41,7 +42,7 @@ export const AboutDetails = () => {
         <ItemLayout
           className={"col-span-full sm:col-span-6 md:col-span-4 !p-0"}
         >
-          <img
+          <Image
             className="w-full h-auto"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaju1611&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false"
             alt="Prince"
@@ -49,14 +50,14 @@ export const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className="col-span-8 !p-0">
-          <img className="w-full h-auto"
+          <Image className="w-full h-auto"
             src="https://github-readme-stats.vercel.app/api?username=Kaju1611&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false"
             alt="Prince"
             loading="lazy" />
         </ItemLayout>
 
         <ItemLayout className={"col-span-full"}>
-          <img
+          <Image
             className="w-full h-auto"
             src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite,nextjs,nodejs,express,mongodb,mysql,c,cpp,python,java,tailwind,discord,git,github,postman,d3,stackoverflow,figma,vscode,windicss,windows,vercel,tensorflow,ros,npm,jquery,linkedin,arduino,linux,threejs,wordpress"
             alt="Prince"
@@ -64,7 +65,7 @@ export const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
-          <img
+          <Image
             className="w-full h-auto"
             src="https://github-readme-streak-stats.herokuapp.com?user=Kaju1611&theme=dark&hide_border=true&type=png&background=FEFE5B00&ring=FEFE5B&currStreakLabel=FEFE5B"
             alt="GitHub Streak"
@@ -73,7 +74,7 @@ export const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full md:col-span-6"}>
-          <img
+          <Image
             className="w-full h-auto"
             src="https://github-readme-stats.vercel.app/api/pin/?username=Kaju1611&repo=My-Portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false"
             alt="repo card"
@@ -84,7 +85,7 @@ export const AboutDetails = () => {
         <ItemLayout
           className={"col-span-full md:col-span-6 !p-0 "}
         >
-          <img
+          <Image
             className="w-full h-auto"
             src="https://leetcard.jacoblin.cool/PRINCE_KUMAR_GUPTA?theme=transparent&ext=heatmap&source=leetcode&font=Oldenburg"
             alt="LeetCode Profile"

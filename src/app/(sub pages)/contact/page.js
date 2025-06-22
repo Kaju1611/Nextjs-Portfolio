@@ -16,7 +16,7 @@ export default function Contact() {
           Pour One & Ping Me 
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-          Step into the Circle of Insights and Shape the Future with Data. Whether you're looking to collaborate on AI innovations, explore data-driven solutions, or brainstorm web development ideas, your messages are valuable queries in this ever-evolving algorithm of possibilities. Use the form below to transmit your insights through the digital pipeline, and await a response as precise as a well-tuned model.
+          Step into the Circle of Insights and Shape the Future with Data. Whether you are looking to collaborate on AI innovations, explore data-driven solutions, or brainstorm web development ideas, your messages are valuable queries in this ever-evolving algorithm of possibilities. Use the form below to transmit your insights through the digital pipeline, and await a response as precise as a well-tuned model.
           </p>
         </div>
         <Form/>
