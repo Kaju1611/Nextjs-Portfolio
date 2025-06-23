@@ -50,7 +50,7 @@ export const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className="col-span-8 !p-0">
-          <Image
+          <img
             className="w-full h-auto"
             src="https://github-readme-stats.vercel.app/api?username=Kaju1611&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false"
             alt="Prince"
@@ -61,7 +61,7 @@ export const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full"}>
-          <Image
+          <img
             className="w-full h-auto"
             src="https://skillicons.dev/icons?i=js,html,css,react,redux,vite,nextjs,nodejs,express,mongodb,mysql,c,cpp,python,java,tailwind,discord,git,github,postman,d3,stackoverflow,figma,vscode,windicss,windows,vercel,tensorflow,ros,npm,jquery,linkedin,arduino,linux,threejs,wordpress"
             alt="Prince"
@@ -73,7 +73,7 @@ export const AboutDetails = () => {
         <ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
           <Image
             className="w-full h-auto"
-            src="https://github-readme-streak-stats.herokuapp.com?user=Kaju1611&theme=dark&hide_border=true&type=png&background=FEFE5B00&ring=FEFE5B&currStreakLabel=FEFE5B"
+            src="https://github-readme-streak-stats.herokuapp.com?user=Kaju1611&theme=dark&hide_border=true&type=svg&background=FEFE5B00&ring=FEFE5B&currStreakLabel=FEFE5B"
             alt="GitHub Streak"
             loading="lazy"
             width={400}
@@ -81,7 +81,7 @@ export const AboutDetails = () => {
           />
         </ItemLayout>
         <ItemLayout className={"col-span-full md:col-span-6"}>
-          <Image
+          <img
             className="w-full h-auto"
             src="https://github-readme-stats.vercel.app/api/pin/?username=Kaju1611&repo=My-Portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false"
             alt="repo card"
@@ -92,7 +92,7 @@ export const AboutDetails = () => {
         </ItemLayout>
         {/* Leet Code */}
         <ItemLayout className={"col-span-full md:col-span-6 !p-0 "}>
-          <Image
+          <img
             className="w-full h-auto"
             src="https://leetcard.jacoblin.cool/PRINCE_KUMAR_GUPTA?theme=transparent&ext=heatmap&source=leetcode&font=Oldenburg"
             alt="LeetCode Profile"
