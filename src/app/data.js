@@ -47,13 +47,13 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/prince-kumar-gupta-b1a275259/",
+    link: "https://www.linkedin.com/in/prince-gupta-b1a275259/",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://x.com/PrinceG84261173",
+    link: "https://x.com/kaju1611",
     icon: "twitter",
     newTab: true,
   },
